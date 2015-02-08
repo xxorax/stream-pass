@@ -1,7 +1,8 @@
 {
   "name": "stream-pass",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Manable multiple streams and their ends easily.",
+  "homepage": "https://github.com/xxorax/stream-pass",
   "main": "./index.js",
   "dependencies": {
     "through": "~2.3.6",
@@ -10,6 +11,9 @@
   "keywords": [
     "stream",
     "streams",
+    "pipe",
+    "through",
+    "concat",
     "readable",
     "easy"
   ],
@@ -17,6 +21,6 @@
     "type": "git",
     "url": "https://github.com/xxorax/stream-pass.git"
   },
-  "author": "Martin PANEL <martin@xorax.info>",
+  "author": "Martin PANEL <martin@xorax.info> (http://xorax.info)",
   "license": "MIT"
 }
